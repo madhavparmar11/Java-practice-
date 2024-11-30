@@ -93,14 +93,6 @@ Contributions are welcome! If you have an interesting Java exercise or project t
 
 ---
 
-## 📖 Resources
-
-- [Java Documentation](https://docs.oracle.com/javase/8/docs/)
-- [W3Schools - Java Tutorial](https://www.w3schools.com/java/)
-- [GeeksforGeeks - Java](https://www.geeksforgeeks.org/java/)
-
----
-
 ## 🌟 License
 
 This repository is licensed under the MIT License. Feel free to use and modify the code as per your needs.
